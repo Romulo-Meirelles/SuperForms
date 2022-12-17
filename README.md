@@ -23,14 +23,14 @@ Use this tool to add Windows Forms and make them much more beautiful. These are 
 
 ##  SOME EXAMPLES OF HOW TO USE.
 
-## Form Example
-<img src="https://raw.githubusercontent.com/Romulo-Meirelles/SuperForms/main/Pictures/SuperForms.png">
+## Imports DLL Tools
+<img src="https://raw.githubusercontent.com/Romulo-Meirelles/SuperForms/main/Pictures/Imports%20Tools.png">
 
 ## ToolBox in Visual Studio
 <img src="https://raw.githubusercontent.com/Romulo-Meirelles/SuperForms/main/Pictures/Tools.png">
 
-## Imports DLL Tools
-<img src="https://raw.githubusercontent.com/Romulo-Meirelles/SuperForms/main/Pictures/Imports%20Tools.png">
+## Form Example
+<img src="https://raw.githubusercontent.com/Romulo-Meirelles/SuperForms/main/Pictures/SuperForms.png">
 
 ## Credits
 - Tedd
