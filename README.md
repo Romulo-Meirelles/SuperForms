@@ -45,9 +45,9 @@ Use this tool to add Windows Forms and make them much more beautiful. These are 
 
 ## Links
 
-- [Homepage](https://github.com/Romulo-Meirelles/SuperForms)
+- [Homepage](https://github.com/Romulo-Meirelles)
 - [NuGet Package](https://www.nuget.org/packages/SuperForms/)
-- [License](https://github.com/Romulo-Meirelles/SuperForms/blob/main/LICENSE.md)
+- [License](https://github.com/Romulo-Meirelles/SuperForms/blob/main/LICENSE)
 - [Telegram](https://t.me/Romulo_Meirelles)
 - [WhatsApp](https://wa.me/message/KWIS3BYO6K24N1)
 - [UpWork](https://www.upwork.com/freelancers/~01fcbc5039ac5766b4)
