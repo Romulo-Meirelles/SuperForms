@@ -1,0 +1,57 @@
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.exe.config
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Test (Framework).vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Form1.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Form2.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Test (Framework).vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Test (Framework).vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Test (Framework).vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\Form Tester.exe.config
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\Form Tester.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXBarcode.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXBarcode.Windows.Forms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDocumentServer.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDocumentServer.Windows.Forms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDrawing.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDrawing.Windows.Forms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXImageProvider.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.Windows.Forms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.Server.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\SuperForms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXBarcode.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXBarcode.Windows.Forms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDocumentServer.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDocumentServer.Windows.Forms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDrawing.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXDrawing.Windows.Forms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.Windows.Forms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\TXTextControl.Server.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\de\TXBarcode.resources.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\de\TXDocumentServer.resources.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\de\TXDrawing.resources.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\bin\Debug\de\TXTextControl.resources.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Test (Framework).vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form_Tester.Form1.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form_Tester.Form2.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form_Tester.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Test (Framework).vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Test (Framework).vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Test (Framework).vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Framework)\obj\Debug\Form Tester.pdb

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vgYJcl7fQMv7WfytU2T9dNgn7yZXJ7gePkXUmEuepmw0tSwiplGvUbF8s0lqDVzUBWxssc/MNx6P1wi2cfS8w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Romulo Meirelles\\source\\repos\\SuperForms\\Form Test (Core)\\Form Test (Core).vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romulo Meirelles\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.31\\microsoft.netcore.app.host.win-x86.3.1.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto SuperForms não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto SuperForms dá suporte a: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "SuperForms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\SuperForms.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Form1.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Form2.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form_Tester.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.exe.config
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\bin\Debug\Form Tester.xml
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Tester\obj\Debug\Form Tester.vbproj.CopyComplete

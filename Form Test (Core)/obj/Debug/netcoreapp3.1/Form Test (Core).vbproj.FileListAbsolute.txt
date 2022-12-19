@@ -1,0 +1,19 @@
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form_Test__Core_.Form1.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).exe
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).deps.json
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).runtimeconfig.json
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).runtimeconfig.dev.json
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\Form Test (Core).pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).genruntimeconfig.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\bin\Debug\netcoreapp3.1\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\obj\Debug\netcoreapp3.1\Form Test (Core).vbproj.CopyComplete

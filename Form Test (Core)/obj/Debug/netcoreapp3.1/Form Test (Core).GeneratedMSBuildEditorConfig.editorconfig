@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = Form_Test__Core_.Form1
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = Form_Test__Core_
+build_property.ProjectDir = C:\Users\Romulo Meirelles\source\repos\SuperForms\Form Test (Core)\
