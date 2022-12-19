@@ -1,0 +1,96 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>SuperForms.Core</RootNamespace>
+    <StartupObject></StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Pictures\Super_Forms_Icon.ico</ApplicationIcon>
+    <AssemblyName>SuperForms</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pictures\Super_Forms_Icon.ico" />
+    <None Remove="Pictures\ToolboxBitmap.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Pictures\ToolboxBitmap.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Pictures\Super_Forms_Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Controls\ControlBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Adobe.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Advantium.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\AlphaBlue.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Anom.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Aryan.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Atrocity.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\AvastOld.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Avatar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\AVGOld.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Azenis.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ThemeBase\Theme Base 1.5.0.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThemeBase\Theme Base 1.5.1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThemeBase\Theme Base 1.5.2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThemeBase\Theme Base 1.5.3.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ThemeBase\Theme Base 1.5.4.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

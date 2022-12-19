@@ -1,0 +1,13 @@
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\netcoreapp3.0\SuperForms.deps.json
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\netcoreapp3.0\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\netcoreapp3.0\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.g.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.Core.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\netcoreapp3.0\SuperForms.pdb

@@ -1,0 +1,14 @@
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\net5.0-windows\SuperForms.deps.json
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\net5.0-windows\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\net5.0-windows\ref\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\bin\Debug\net5.0-windows\SuperForms.pdb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.g.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.Core.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\ref\SuperForms.dll
+C:\Users\Romulo Meirelles\source\repos\SuperForms\SuperForms.Core\obj\Debug\net5.0-windows\SuperForms.pdb
